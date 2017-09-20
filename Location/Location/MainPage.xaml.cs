@@ -42,5 +42,9 @@ namespace Location
 
             
         }
+        async void FotoMachen(Object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new CamPage());
+        }
     }
 }
