@@ -1,7 +1,5 @@
 C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\bin\Debug\Location.Android.dll
 C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\bin\Debug\Location.Android.pdb
-C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\bin\Debug\Location.Android.apk
-C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\bin\Debug\Location.Android-Signed.apk
 C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\bin\Debug\FormsViewGroup.dll
 C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\bin\Debug\Location.dll
 C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
@@ -27,7 +25,6 @@ C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\obj\Debug
 C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\obj\Debug\Location.Android.csproj.CoreCompileInputs.cache
 C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\obj\Debug\Location.Android.dll
 C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\obj\Debug\Location.Android.pdb
-C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\obj\Debug\android\bin\Location.Android.apk
 C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\obj\Debug\res\drawable\icon.png
 C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\obj\Debug\res\drawable-hdpi\icon.png
 C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\obj\Debug\res\drawable-xhdpi\icon.png
@@ -71,3 +68,12 @@ C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\obj\Debug
 C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
 C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
 C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\bin\Debug\Location.Location.apk
+C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\bin\Debug\Location.Location-Signed.apk
+C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\bin\Debug\Xamarin.Forms.Maps.Android.dll
+C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\tre\TechnologyTest\Xamarin\Location\Location\Location.Android\obj\Debug\android\bin\Location.Location.apk
